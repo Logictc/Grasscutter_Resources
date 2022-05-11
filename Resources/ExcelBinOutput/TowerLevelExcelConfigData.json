@@ -5374,18 +5374,13 @@
         "FirstPassRewardId": 621034,
         "MonsterLevel": 94,
         "FirstMonsterList": [
-            51001,
-            51002,
-            50801,
-            50802,
-            50803,
-            50103,
-            50104,
-            50105,
-            50106
+            60101,
+            60103,
+            60401
         ],
         "SecondMonsterList": [
-            40101
+            40101,
+            40103
         ]
     },
     {
@@ -5424,13 +5419,12 @@
         "FirstPassRewardId": 621035,
         "MonsterLevel": 97,
         "FirstMonsterList": [
-            60101,
-            60102
+            10206,
+            10204,
+            109
         ],
         "SecondMonsterList": [
-            20302,
-            20301,
-            20201
+            50901
         ]
     },
     {
@@ -5469,10 +5463,10 @@
         "FirstPassRewardId": 621036,
         "MonsterLevel": 99,
         "FirstMonsterList": [
-            20302
+            60506
         ],
         "SecondMonsterList": [
-            20201
+            40211
         ]
     }
 ]
